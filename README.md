@@ -18,3 +18,4 @@ In this project, we perform an in-depth analysis of the marathon data by:
 This analysis not only sheds light on the performance dynamics of NYC marathon runners but also provides a framework for applying data science techniques to sports analytics.
 
 
+# Tesla_EV_Market
