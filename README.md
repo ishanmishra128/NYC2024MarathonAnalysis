@@ -15,7 +15,4 @@ In this project, we perform an in-depth analysis of the marathon data by:
   - Exploring relationships between demographics (e.g., age, gender) and performance metrics.
   - Highlighting trends and anomalies to better understand how different factors contribute to marathon performance.
 
-This analysis not only sheds light on the performance dynamics of NYC marathon runners but also provides a framework for applying data science techniques to sports analytics.
-
-
-# Tesla_EV_Market
+This analysis not only sheds light on the performances of NYC marathon runners but also provides a framework for applying data science techniques to large events and sports analytics.
